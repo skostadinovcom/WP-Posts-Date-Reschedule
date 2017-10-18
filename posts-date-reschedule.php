@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name:    Posts Date Reschedule
- * Plugin URI:     www.skostadinov.eu
+ * Plugin URI:     https://skostadinov.eu/posts-date-reschedule/
  * Description:    Basic extension with which you can set bulk, new dates for your posts.
  * Version:        1.0.0
  * Author:         Stoyan Kostadinov
- * Author URI:     www.skostadinov.eu
+ * Author URI:     http://skostadinov.eu
  * Text Domain:    pdr
  *
  * @package         Posts Date Reschedule
