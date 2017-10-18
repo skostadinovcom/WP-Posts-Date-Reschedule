@@ -32,6 +32,8 @@ class PostsDateReschedule{
 	public function hooks(){
 		add_action( 'admin_menu', array($this, 'pdr_regsiter_pages') );
 		add_action('admin_enqueue_scripts', array($this, 'register_styles_scripts') );
+
+		load_plugin_textdomain( 'pdr', false, PDR_PATH . '/languages' ); 
 	}
 
 	public function register_styles_scripts(){
