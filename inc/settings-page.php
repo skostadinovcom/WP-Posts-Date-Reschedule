@@ -79,7 +79,7 @@
 			<input name="pdr_save" class="button-primary" type="submit" value="Go!">
 		</p>
 		<p class="developer">
-			Developed by: Stoyan Kostadinov
+			Developed by: <a href="http://skostadinov.eu">Stoyan Kostadinov</a>
 		</p>
 	</form>
 </div>
